@@ -1,4 +1,6 @@
 # AutoInstaller
+Asset store link: http://u3d.as/1zwk
+
 Auto Install tool for Unity3d. It will automaticly install apks via wifi to your device after build.
 
 ## Requirements
@@ -7,7 +9,7 @@ Auto Install tool for Unity3d. It will automaticly install apks via wifi to your
 - “USB Debugging” and "Install via USB" options enabled
 
 ## Installation
-- Import Auto Installer package from Unity Asset Store (http://u3d.as/1zwk)
+- Import Auto Installer package from Unity Asset Store
 - Click **AutoInstaller/Configuration** menu option
 - Connect your android device via USB to computer
 - Click on **Register connected device**

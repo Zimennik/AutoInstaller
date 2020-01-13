@@ -24,3 +24,6 @@ Auto Install tool for Unity3d. It will automaticly install apks via wifi to your
 - **Tools / Auto Installer / Install Last Build** - Install last successful build to your current target device.
 - **Tools / Auto Installer / Launch app on device** - Connect to current target device and Start your app if it installed.
 - If you have multiple devices to test your builds, you can add as many as you want and switch between them in AutoInstall config file.
+
+## Feedback or support
+If you have any questions, suggestions or comments, please contact me by email (zimennik@gmail.com)
